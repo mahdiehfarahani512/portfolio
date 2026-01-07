@@ -2,7 +2,7 @@ const Mahdiehfarahani = () => {
   return (
     <div className='h-full bg-black p-6 lg:pl-32 '>
       <div >
-          <p className="text-[20px] md:text-[24px] lg:text-[28px] text-[#3ccf91] font-bold mt-8 sm:mt-18">
+          <p className="  lg:text-[29px] text-[#3ccf91] font-bold lg:mt-8 lg:mb-[-35px]">
   Hey there!, I'm
 </p>
 <h1 className="font-bold ">
@@ -13,16 +13,17 @@ const Mahdiehfarahani = () => {
   </span>
 
   {/* لپ‌تاپ */}
-  <span className="hidden lg:block text-white text-[100px]">
+  <span className="hidden lg:block text-white text-[100px] ">
     Mahdieh Farahani.
   </span>
 </h1>
     </div>
     
-    <div>
-      <p className="font-bold text-[#8f9094] lg:text-[28px] sm:text-[22px]  sm:mt-14 lg:mt-5"><span className="font-bold text-white lg:text-[28px] sm:text-[26px] ">Junior developer </span>with an interest in computer <br></br>science and a passion for learning and building.</p>
+      <div>
+      <p className="font-bold text-[#8f9094] lg:text-[28px] lg:mt-5 "><span className="font-bold text-white lg:text-[28px]  ">Junior developer. </span>with an interest in computer science and a passion for learning and building.</p>
     </div>
-    <div className="text-[#8f9094] lg:text-[22px] sm:text-[22px] lg:mt-6 sm:mt-8">🚀 Currently specializing in Frontend (React / Next.js)<br></br>
+
+    <div className="text-[#8f9094] lg:text-[22px]  lg:mt-6 ">🚀 Currently specializing in Frontend (React / Next.js)<br></br>
 ⚡
 Full-stack Engineer at DocuAsk
 
@@ -37,7 +38,7 @@ Full-stack Engineer at DocuAsk
     <svg fill="#3ccf91" width="20px" height="20px" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" data-name="Layer 1"><path d="M20.47,2H3.53A1.45,1.45,0,0,0,2.06,3.43V20.57A1.45,1.45,0,0,0,3.53,22H20.47a1.45,1.45,0,0,0,1.47-1.43V3.43A1.45,1.45,0,0,0,20.47,2ZM8.09,18.74h-3v-9h3ZM6.59,8.48h0a1.56,1.56,0,1,1,0-3.12,1.57,1.57,0,1,1,0,3.12ZM18.91,18.74h-3V13.91c0-1.21-.43-2-1.52-2A1.65,1.65,0,0,0,12.85,13a2,2,0,0,0-.1.73v5h-3s0-8.18,0-9h3V11A3,3,0,0,1,15.46,9.5c2,0,3.45,1.29,3.45,4.06Z"/></svg>
        <span className=" text-white font-bold  ">Linkedin</span>
   </div>
-  <div className="flex gap-2 bg-[#ffffff14] px-4 py-2 rounded-[7px]">
+  <div className="flex gap-2 bg-[#ffffff14] px-4 py-2 rounded-[7px] hover">
     
 <svg width="20px" height="20px" viewBox="0 0 15 15" fill="#3ccf91" xmlns="http://www.w3.org/2000/svg">
 <path d="M1.5 0C0.671165 0 0 0.670259 0 1.49935V10.4935C0 11.3226 0.671165 11.9928 1.5 11.9928H5.2325L7.08406 14.7683C7.1768 14.9074 7.33288 14.9909 7.5 14.9909C7.66712 14.9909 7.8232 14.9074 7.91594 14.7683L9.7675 11.9928H13.5C14.3288 11.9928 15 11.3226 15 10.4935V1.49935C15 0.670259 14.3288 0 13.5 0H1.5Z" fill="#3ccf91"/>

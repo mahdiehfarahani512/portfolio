@@ -3,7 +3,7 @@
 const Header = () => {
   return (
     <div className='bg-black  p-6 sticky top-0 left-0 h-[80px] '>
-        <div className='flex justify-between lg:border-b border-b-[1px] border-b-[#1e2029] lg:w-4/4 '>
+        <div className='flex justify-between items-center lg:border-b border-b-[1px] border-b-[#1e2029] lg:w-4/4 '>
  <div className=' flex gap-1 items-center hover:cursor-pointer lg:pl-[70px] lg:pt-1 lg:items-center '>
                 <p className='text-[#8f9094] text-[32px] font-bold'>{'{'}</p>
 <span  className='text-white text-[32px] font-bold'>M</span>
